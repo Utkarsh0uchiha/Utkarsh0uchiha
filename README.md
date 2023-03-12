@@ -1,4 +1,4 @@
-![Header](https://www.msci.com/documents/1296102/8175196/870x310px-FAANG-BlogBanner.jpg/bd156e1e-39a7-83b3-6e54-e042a9ef0ca5?t=1533287886222)
+![Header](https://eurotrader-com.s3.eu-west-2.amazonaws.com/blog/Eurotrader-blog-post-faang-stocks.png)
 <h1 align="center">Hi 👋, I'm Utkarsh Raj</h1>
 <h3 align="center">A soccer player who can code</h3>
 

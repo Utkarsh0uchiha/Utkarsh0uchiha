@@ -1,4 +1,4 @@
-![Header](https://animesher.com/orig/1/132/1320/13204/animesher.com_naruto-itachi-akatsuki-1320459.gif)
+
 <h1 align="center">Hi 👋, I'm Utkarsh Raj</h1>
 <h3 align="center">A soccer player who can code</h3>
 

@@ -1,4 +1,4 @@
-![Header](https://eurotrader-com.s3.eu-west-2.amazonaws.com/blog/Eurotrader-blog-post-faang-stocks.png)
+![Header](https://i.pinimg.com/originals/64/bd/6c/64bd6c591cea88326100dbda0c5d37fc.gif)
 <h1 align="center">Hi 👋, I'm Utkarsh Raj</h1>
 <h3 align="center">A soccer player who can code</h3>
 

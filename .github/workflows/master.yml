@@ -44,7 +44,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
-          run: echo "KEY=VALUE" >>$GITHUB_OUTPUT
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:

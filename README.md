@@ -70,10 +70,4 @@ I am excited to continue learning and growing as a programmer and athlete, and I
 
 <br/>  
 
-
-## Github Stats  
-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Utkarsh0uchiha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
 ----

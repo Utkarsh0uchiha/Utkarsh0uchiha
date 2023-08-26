@@ -1,24 +1,15 @@
-## Hey 👋, I'm Utkarsh Raj!  
-  
-
-<a href="https://github.com/Utkarsh0uchiha" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://instagram.com/utkarsh_theurgy" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-<a href="https://twitter.com/0utk_a_rsh0" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/utkarsh0uchiha" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-
-<br/>  
-
+## Hey 👋, I'm Utkarsh Raj! 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Utkarsh0uchiha&&style=flat-square)   
 <br/>
+
+<p align="center">
+</p>
+<p align="center">
+  <img title="🚩 Jai Shree Ram" src="https://o.remove.bg/downloads/83a9503e-f50c-4fa4-a729-c828163013d0/Ramayan-The-Legend-of-Prince-Rama-japanese-ramayana-scene-removebg-preview.png" width=500px/>
+        <img alt="Utkarsh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=utkarsh0uchiha&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)" height=210px/>
+    </a>
+
+<br>
   
 ### Glad to see you here!  
 Hello there! My name is Utkarsh, and I am a 16-year-old student with a passion for programming and sports. As a self-taught programmer, I have gained proficiency in several programming languages, including C++, C, Python, and web development languages such as HTML and CSS.

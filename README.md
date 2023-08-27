@@ -5,7 +5,7 @@
 <p align="center">
 </p>
 <p align="center">
-  <img title="🚩 Jai Shree Ram" src="https://o.remove.bg/downloads/83a9503e-f50c-4fa4-a729-c828163013d0/Ramayan-The-Legend-of-Prince-Rama-japanese-ramayana-scene-removebg-preview.png" width=500px/>
+  <img title="🚩 Jai Shree Ram" src="https://o.remove.bg/downloads/26b53efa-c91b-4114-b105-35caa5392352/Ramayan-The-Legend-of-Prince-Rama-japanese-ramayana-scene-removebg-preview.png" width=500px/>
         <img alt="Utkarsh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=utkarsh0uchiha&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)" height=210px/>
     </a>
 

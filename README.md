@@ -12,7 +12,7 @@
 <br>
   
 ### Glad to see you here!  
-Hello there! My name is Utkarsh, and I am a 16-year-old student with a passion for programming and sports. As a self-taught programmer, I have gained proficiency in several programming languages, including C++, C, Python, and web development languages such as HTML and CSS.
+Hello there! My name is Utkarsh, and I am a student with a passion for programming and sports. As a self-taught programmer, I have gained proficiency in several programming languages, including C++, C, Python, and  HTML and CSS.
 
 In addition to my technical skills, I also have experience working with Git and Linux, which has allowed me to collaborate on various open-source projects and gain hands-on experience with software development.
 
@@ -33,7 +33,7 @@ I am excited to continue learning and growing as a programmer and athlete, and I
 - 🌱 I’m currently learning Data Structures and Algorithms  
   
 
-- ⚡ Fun fact: I use a ancient laptop to code and it works well.  
+- ⚡ Fun fact: I love to disassemble my old dead laptop.  
 
 
 </td><td valign="top" width="50%">

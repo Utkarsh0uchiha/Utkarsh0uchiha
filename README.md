@@ -5,7 +5,7 @@
 <p align="center">
 </p>
 <p align="center">
-  <img title="🚩 Jai Shree Ram" src="https://i.pinimg.com/1200x/af/91/1b/af911b8119ee0cc0d44c031be361a802.jpg" width=500px/>
+  <img title="CIGARETTE 🚬" src="https://i.pinimg.com/1200x/af/91/1b/af911b8119ee0cc0d44c031be361a802.jpg" width=500px/>
         <img alt="Utkarsh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=utkarsh0uchiha&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)" height=210px/>
     </a>
 

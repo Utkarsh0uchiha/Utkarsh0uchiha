@@ -6,6 +6,7 @@
 </p>
 <p align="center">
   <img title="CIGARETTE 🚬" src="https://i.pinimg.com/1200x/75/32/1e/75321e65f02cf5a236b6d15f8c6149c8.jpg" width=500px/>
+        <img src = "https://profile-readme-generator.com/assets/snake.svg" >
         <img alt="Utkarsh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=utkarsh0uchiha&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)" height=210px/>
     </a>
 

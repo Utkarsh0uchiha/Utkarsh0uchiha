@@ -1,66 +1,198 @@
-## Hey 👋, I'm Utkarsh Raj! 
-![Profile views counter](https://komarev.com/ghpvc/?username=Utkarsh0uchiha&&style=flat-square)   
-<br/>
-
-<p align="center">
-</p>
-<p align="center">
-  <img title="CIGARETTE 🚬" src="https://i.pinimg.com/1200x/75/32/1e/75321e65f02cf5a236b6d15f8c6149c8.jpg" width=500px/>
-        <img alt="Utkarsh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=utkarsh0uchiha&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)" height=210px/>
-    </a>
-
-<br>
-  
-### Glad to see you here!  
-Hello there! My name is Utkarsh, and I am a student with a passion for programming and sports. As a self-taught programmer, I have gained proficiency in several programming languages, including C++, C, Python, and  HTML and CSS.
-
-In addition to my technical skills, I also have experience working with Git and Linux, which has allowed me to collaborate on various open-source projects and gain hands-on experience with software development.
-
-When I'm not coding, you can find me playing soccer or Basketball, where I enjoy the physical challenge and the team dynamic. I believe that being a well-rounded individual is just as important as having technical expertise, and sports have taught me valuable lessons in teamwork, discipline, and perseverance.
-
-I am excited to continue learning and growing as a programmer and athlete, and I hope to use my skills and experiences to make a positive impact on the world. ♠️ 
-  
-
-<br/>  
+# Hi, I'm Utkarsh Raj 👋
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on myself.  
-  
+```
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+```
 
-- 🌱 I’m currently learning Data Structures and Algorithms  
-  
 
-- ⚡ Fun fact: I love to disassemble my old dead laptop.  
+## $ whoami
 
+```yaml
+name: Utkarsh Raj
 
-</td><td valign="top" width="50%">
+role:
+  - Computer Science Undergraduate
+  - Backend Developer
+  - Open Source Contributor
+
+currently_learning:
+  - Go
+  - System Design
+  - Software Engineering
+
+interests:
+  - Backend Engineering
+  - Open Source
+  - Algorithms
+  - Developer Tools
+
+achievements:
+  - 450+ LeetCode Problems
+  - GSSoC Contributor
+  - Hacktoberfest Participant
+
+location: India
+```
+
+---
+
+## 🚀 Open Source Contributions
+
+### Vodka (Go Web Framework)
+
+Merged Contributions:
+
+* PR #32 — Improved README structure and onboarding documentation
+* PR #136 — Added Context.Redirect() helper and test coverage
+* Feature Proposal — Context.Status() and Context.NoContent() helpers
+
+Highlights:
+
+* Improved developer onboarding experience
+* Added workflow demonstrations and setup instructions
+* Added API testing examples
+* Added redirect helper API
+* Wrote redirect validation tests
+* Collaborated directly with maintainers through reviews and discussions
+
+---
+
+## 📌 Featured Projects
+
+### 🎵 LofiCentral
+
+```text
+Tech Stack:
+Python • FastAPI • AsyncIO • Telegram Bot API
+
+Highlights:
+✓ 30–50% lower response latency
+✓ Webhook architecture
+✓ Async request processing
+✓ 95%+ uptime
+```
+
+Repository:
+https://github.com/Utkarsh0uchiha/LofiCentral
+
+---
+
+### ♟️ Caïssa Chess Engine
+
+```text
+Tech Stack:
+Python • Minimax • Alpha-Beta Pruning
+
+Highlights:
+✓ Complete chess engine
+✓ 40k positions evaluated per move
+✓ 80–85% search space reduction
+```
+
+Repository:
+https://github.com/Utkarsh0uchiha/Caissa-AI-Chess-BOT
+
+---
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+  <picture>
+![gifgithub](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+  </picture>
+</div>
 
+---
 
-</td></tr></table>  
+## 🛠 Tech Stack
 
-<br/>  
+### Languages
 
+![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![Python](https://skillicons.dev/icons?i=python)
+![Go](https://skillicons.dev/icons?i=go)
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Git" height="75" /></a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Git" height="75" /></a> 
+### Backend
 
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
 
-###
-</div>  
+### Core CS
 
-<br/>  
+```text
+Data Structures & Algorithms
+Object-Oriented Programming
+Computer Networks
+Operating Systems
+Software Engineering
+```
+<div align="center">
 
-----
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonalvesdosreis/andersonalvesdosreis/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonalvesdosreis/andersonalvesdosreis/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andersonalvesdosreis/andersonalvesdosreis/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh0uchiha&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh0uchiha&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh0uchiha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+---
+
+## 🌐 Connect
+
+* GitHub: github.com/Utkarsh0uchiha
+* LinkedIn: linkedin.com/in/Utkarsh0uchiha
+* LeetCode: leetcode.com/u/Utkarsh0uchiha
+* Email: [uraj81922@gmail.com](mailto:uraj81922@gmail.com)
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="YOUR_VERCEL_URL/api/footer?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="YOUR_VERCEL_URL/api/footer?theme=light">
+    <img src="YOUR_VERCEL_URL/api/footer?theme=dark" alt="Footer">
+  </picture>
+</div>

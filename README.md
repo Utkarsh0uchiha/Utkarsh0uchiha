@@ -139,15 +139,7 @@ https://github.com/Utkarsh0uchiha/Caissa-AI-Chess-BOT
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
-### Core CS
 
-```text
-Data Structures & Algorithms
-Object-Oriented Programming
-Computer Networks
-Operating Systems
-Software Engineering
-```
 <div align="center">
 
   <picture>
@@ -158,41 +150,6 @@ Software Engineering
 
 </div>
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh0uchiha&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh0uchiha&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh0uchiha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
----
-
-## 🌐 Connect
-
-* GitHub: github.com/Utkarsh0uchiha
-* LinkedIn: linkedin.com/in/Utkarsh0uchiha
-* LeetCode: leetcode.com/u/Utkarsh0uchiha
-* Email: [uraj81922@gmail.com](mailto:uraj81922@gmail.com)
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="YOUR_VERCEL_URL/api/footer?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="YOUR_VERCEL_URL/api/footer?theme=light">
-    <img src="YOUR_VERCEL_URL/api/footer?theme=dark" alt="Footer">
-  </picture>
-</div>
